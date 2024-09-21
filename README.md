@@ -14,9 +14,9 @@ I'm a passionate MERN stack developer and a Machine Learning enthusiast, dedicat
 
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frontend**: React.js
-- **Backend**: Node.js, Express.js, Socket.IO
+- **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
-- **Tools & Technologies**: Git, WebRTC, JWT Authentication
+- **Tools & Technologies**: Git, WebRTC, JWT Authentication, Socket.IO
 - **AI/ML**: NumPy, Pandas
 
 ## 📌 Pinned Projects
