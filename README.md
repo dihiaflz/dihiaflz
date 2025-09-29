@@ -22,7 +22,7 @@ I'm a passionate MERN stack developer and a Machine Learning enthusiast, dedicat
 ## 📌 Pinned Projects
 Here are some of the key projects I've been working on:
 [![Project1](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=Face-mask-detection-app-Transfer-learning-MobileNet_v2-Streamlit-Docker-)](https://github.com/dihiaflz/Face-mask-detection-app-Transfer-learning-MobileNet_v2-Streamlit-Docker-)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)]([https://github.com/dihiaflz/Appointment-Calendar-App](https://github.com/dihiaflz/NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)](https://github.com/dihiaflz/NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)
 
 ## 🎯 Currently Learning
 - Advanced Deep Learning techniques
