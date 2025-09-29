@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Falouz Dihia!
 
-I'm a passionate MERN stack developer and a Machine Learning enthusiast, dedicated to continuously learning to build AI-powered applications.
+I'm a final year computer science student specializing in AI and Data science passionate about MERN stack developement and AI, dedicated to continuously learning to build AI-powered applications.
 
 ## 🔭 About Me
-- 🎓 **Education:** 4th-year Computer Science student at [ESTIN](https://estin.dz/) (École Nationale Supérieure en Sciences et Technologies de l'Informatique et du Numérique)
+- 🎓 **Education:** final year Computer Science student at [ESTIN](https://estin.dz/) (École Nationale Supérieure en Sciences et Technologies de l'Informatique et du Numérique)
 - 🌱 I'm currently improving my skills in **MERN Stack**, **Machine Learning**, and **Deep Learning**.
 - 💡 I’m always learning about new technologies, and I love collaborating on exciting projects!
 - 🔭 I’m working on building **AI-powered web applications**.
@@ -15,9 +15,9 @@ I'm a passionate MERN stack developer and a Machine Learning enthusiast, dedicat
 - **Languages**: JavaScript, Python, HTML, CSS
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB, SQLite
 - **Tools & Technologies**: Git, WebRTC, JWT Authentication, Socket.IO
-- **AI/ML**: NumPy, Pandas
+- **AI/ML**: NumPy, Pandas, Tensorflow, Scikit-learn, Matplotlib, Seaborn
 
 ## 📌 Pinned Projects
 Here are some of the key projects I've been working on:
@@ -26,7 +26,7 @@ Here are some of the key projects I've been working on:
 
 ## 🎯 Currently Learning
 - Advanced Deep Learning techniques
-- Advanced Python libraries
+- LLMs and RAG models
 
 ## 📫 Get in Touch
 - **Email:** [d_falouz@estin.dz](mailto:d_falouz@estin.dz)
