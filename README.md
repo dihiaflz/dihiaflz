@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Falouz Dihia!
+# 👋 Hi there, I'm Dihia Falouz!
 I'm an AI & Data Sciences Engineer, graduated from ESTIN, passionate about building LLM-powered and agentic AI applications, with a background that also covers deep learning, NLP, and MERN stack development.
 ## 🔭 About Me
 - 🎓 **Education:** State Engineer + Master's in Computer Science, AI & Data Sciences, [ESTIN](https://estin.dz/) (graduated with excellence, 19/20)
@@ -23,4 +23,4 @@ Here are some of the key projects I've been working on:
 - Self-correcting RAG assistant with memory
 ## 📫 Get in Touch
 - **Email:** [dihiadahdah@gmail.com](mailto:dihiadahdah@gmail.com)
-- **LinkedIn:** [Falouz Dihia](https://www.linkedin.com/in/dihia-falouz/)
+- **LinkedIn:** [Dihia Falouz](https://www.linkedin.com/in/dihia-falouz/)
