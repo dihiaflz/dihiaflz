@@ -1,35 +1,26 @@
 # 👋 Hi there, I'm Falouz Dihia!
-
-I'm a final year computer science student specializing in AI and Data science passionate about MERN stack developement and AI, dedicated to continuously learning to build AI-powered applications.
-
+I'm an AI & Data Sciences Engineer, graduated from ESTIN, passionate about building LLM-powered and agentic AI applications, with a background that also covers deep learning, NLP, and MERN stack development.
 ## 🔭 About Me
-- 🎓 **Education:** final year Computer Science student at [ESTIN](https://estin.dz/) (École Nationale Supérieure en Sciences et Technologies de l'Informatique et du Numérique)
-- 🌱 I'm currently improving my skills in **MERN Stack**, **Machine Learning**, and **Deep Learning**.
+- 🎓 **Education:** State Engineer + Master's in Computer Science, AI & Data Sciences, [ESTIN](https://estin.dz/) (graduated with excellence, 19/20)
+- 🌱 I'm currently improving my skills in **LLMs**, **RAG**, **Agentic AI**, and **Deep Learning**.
 - 💡 I’m always learning about new technologies, and I love collaborating on exciting projects!
-- 🔭 I’m working on building **AI-powered web applications**.
-- 👯 I’m looking to collaborate on **AI & web development projects**.
-- 💬 Ask me about **MERN Stack, JavaScript, AI, and Python**.
-
+- 🔭 I’m working on building **agentic AI and RAG-based applications**.
+- 👯 I’m looking to collaborate on **AI/LLM projects**.
+- 💬 Ask me about **LLMs, LangChain/LangGraph, Machine Learning, and Python**.
 ### 🚀 My Tech Stack:
-
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
+- **AI/ML**: TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- **GenAI**: LangChain, LangGraph, RAG, Prompt Engineering, Agentic AI
+- **Languages**: Python, JavaScript, SQL
+- **Web**: React.js, Node.js, Express.js
 - **Databases**: MongoDB, SQLite
-- **Tools & Technologies**: Git, WebRTC, JWT Authentication, Socket.IO
-- **AI/ML**: NumPy, Pandas, Tensorflow, Scikit-learn, Matplotlib, Seaborn
-
+- **Tools**: Git, Docker, Streamlit, Power BI
 ## 📌 Pinned Projects
 Here are some of the key projects I've been working on:
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=Face-mask-detection-app-Transfer-learning-MobileNet_v2-Streamlit-Docker-)](https://github.com/dihiaflz/Face-mask-detection-app-Transfer-learning-MobileNet_v2-Streamlit-Docker-)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)](https://github.com/dihiaflz/NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)
-
-## 🎯 Currently Learning
-- Advanced Deep Learning techniques
-- LLMs and RAG models
-
+[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=-Forest-Fire-Risk-Dashboard)](https://github.com/dihiaflz/-Forest-Fire-Risk-Dashboard)
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=Plant-disease-classifier-using-ResNet50)](https://github.com/dihiaflz/Plant-disease-classifier-using-ResNet50)
+## 🎯 Currently Building
+- Agentic AI system with LangGraph
+- Self-correcting RAG assistant with memory
 ## 📫 Get in Touch
-- **Email:** [d_falouz@estin.dz](mailto:d_falouz@estin.dz)
+- **Email:** [dihiadahdah@gmail.com](mailto:dihiadahdah@gmail.com)
 - **LinkedIn:** [Falouz Dihia](https://www.linkedin.com/in/dihia-falouz/)
-
-
