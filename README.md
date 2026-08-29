@@ -14,10 +14,6 @@ I'm an AI & Data Sciences Engineer, graduated from ESTIN, passionate about build
 - **Web**: React.js, Node.js, Express.js
 - **Databases**: MongoDB, SQLite
 - **Tools**: Git, Docker, Streamlit, Power BI
-## 📌 Pinned Projects
-Here are some of the key projects I've been working on:
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=-Forest-Fire-Risk-Dashboard)](https://github.com/dihiaflz/-Forest-Fire-Risk-Dashboard)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=dihiaflz&repo=NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)](https://github.com/dihiaflz/NLP-based-sentiment-analysis-application-LSTM-Streamlit-Docker)
 ## 🎯 Currently Building
 - Agentic AI system with LangGraph
 - Self-correcting RAG assistant with memory
